@@ -1,0 +1,9 @@
+C:\Users\Deus\Desktop\test\PlayMouseMove\PlayMouseMove\bin\Debug\PlayMouseMove.exe.config
+C:\Users\Deus\Desktop\test\PlayMouseMove\PlayMouseMove\bin\Debug\PlayMouseMove.exe
+C:\Users\Deus\Desktop\test\PlayMouseMove\PlayMouseMove\bin\Debug\PlayMouseMove.pdb
+C:\Users\Deus\Desktop\test\PlayMouseMove\PlayMouseMove\obj\Debug\PlayMouseMove.csprojResolveAssemblyReference.cache
+C:\Users\Deus\Desktop\test\PlayMouseMove\PlayMouseMove\obj\Debug\PlayMouseMove.Properties.Resources.resources
+C:\Users\Deus\Desktop\test\PlayMouseMove\PlayMouseMove\obj\Debug\PlayMouseMove.csproj.GenerateResource.Cache
+C:\Users\Deus\Desktop\test\PlayMouseMove\PlayMouseMove\obj\Debug\PlayMouseMove.exe
+C:\Users\Deus\Desktop\test\PlayMouseMove\PlayMouseMove\obj\Debug\PlayMouseMove.pdb
+C:\Users\Deus\Desktop\test\PlayMouseMove\PlayMouseMove\obj\Debug\PlayMouseMove.Form1.resources
